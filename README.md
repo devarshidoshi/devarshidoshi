@@ -8,11 +8,11 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **MYSELF** (Ds-Algo).
+- 🔭 I’m currently working on **MYSELF** (ThreeJS).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for more open source projects.
 - 📫 How to reach me: devarshidoshi007@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+<!-- - ⚡ Fun fact: I play games and go to the GYM very often. -->
 
 #### Top Technologies
 
