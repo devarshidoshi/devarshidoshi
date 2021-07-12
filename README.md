@@ -42,7 +42,7 @@
 
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762422-60d2ab00-5f7a-11eb-8e15-01962d9b230d.png" />
+<!-- <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762422-60d2ab00-5f7a-11eb-8e15-01962d9b230d.png" />
 
 \
 &emsp;
@@ -52,7 +52,7 @@
 <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762295-397bde00-5f7a-11eb-9c63-762e2a9af8be.png" />
 
 
-<img align="left" alt="MongoDB" width="70px" src="https://user-images.githubusercontent.com/63283520/105761986-cecaa280-5f79-11eb-8821-2cf8c98d3dff.png" />
+<img align="left" alt="MongoDB" width="70px" src="https://user-images.githubusercontent.com/63283520/105761986-cecaa280-5f79-11eb-8821-2cf8c98d3dff.png" /> -->
 
 <br /><br />
 <br />
