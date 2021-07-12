@@ -4,15 +4,14 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/DoshiDevarshi) [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-doshi-45571a13b/) [![Instagram Badge](https://img.shields.io/badge/-Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/devarshi_doshi/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:devarshidoshi007@gmail.com)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/DoshiDevarshi) [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-doshi-45571a13b/) [![Instagram Badge](https://img.shields.io/badge/-Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/devarshi_doshi/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:devarshidoshi007@gmail.com) -->
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **MYSELF** (Ds-Algo).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for more open source projects.
-- 📫 How to reach me: adityarawatinferno@gmail.com.
-- 😄 Pronouns: CoderOne, Xcaliber, Adi.
+- 📫 How to reach me: devarshidoshi007@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
